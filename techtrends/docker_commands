@@ -1,0 +1,5 @@
+docker login 
+
+docker build -t techtrends .
+
+9e8d25343f777695e440a6bb6bb59e60492ec5464aa4e5662780febafea72d3a
